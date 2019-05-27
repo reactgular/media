@@ -1,4 +1,11 @@
 @import "material";
 
+// the gray branding
+$reactgular-primary-lighter: map_get($md-reactgular-primary, 300);
 $reactgular-primary: map_get($md-reactgular-primary, 500);
+$reactgular-primary-darker: map_get($md-reactgular-primary, 700);
+
+// the red branding
+$reactgular-secondary-lighter: map_get($md-reactgular-secondary, 300);
 $reactgular-secondary: map_get($md-reactgular-secondary, 500);
+$reactgular-secondary-darker: map_get($md-reactgular-secondary, 700);
