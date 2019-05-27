@@ -1,0 +1,19 @@
+{
+  "name": "@reactgular/media",
+  "version": "1.0.0",
+  "description": "Media files related to the styles, branding and logos for Reactgular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactgular/media.git"
+  },
+  "author": "Reactgular",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reactgular/media/issues"
+  },
+  "homepage": "https://github.com/reactgular/media#readme"
+}
